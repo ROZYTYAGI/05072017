@@ -1,4 +1,4 @@
-public class Myclass implements MyInterface
+ class Myclass implements MyInterface
 {
 public void mymethod()
 {
